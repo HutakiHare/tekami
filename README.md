@@ -1,2 +1,2 @@
-# tekami
+# tegami
 It's a letter
